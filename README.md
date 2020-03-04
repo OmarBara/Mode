@@ -1,3 +1,6 @@
+# Restorant managment App
+To manage all services for coustumers orders, it have 2 dashboard one for the coustumers orders and the other is for the admin managment and delivery service.
+
 ## Quick Start
 
 ``` bash
